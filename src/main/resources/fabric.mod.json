@@ -8,10 +8,9 @@
 		"T3rminalIns4nity"
 	],
 	"contact": {
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/T3rminalIns4nity/Pushable_Brittle_Ice"
 	},
-	"license": "CC0-1.0",
-	"icon": "assets/pushable_brittle_ice/icon.png",
+	"license": "MIT",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -24,7 +23,6 @@
 	"depends": {
 		"fabricloader": ">=0.19.5",
 		"minecraft": "~26.4-",
-		"java": ">=25",
-		"fabric-api": "*"
+		"java": ">=25"
 	}
 }
