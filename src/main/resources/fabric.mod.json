@@ -3,7 +3,7 @@
 	"id": "pushable_brittle_ice",
 	"version": "${version}",
 	"name": "Pushable Brittle Ice",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Changes Brittle Ice's pushReaction() to be PUSH_PULL instead of POPPED",
 	"authors": [
 		"T3rminalIns4nity"
 	],
